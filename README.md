@@ -1,2 +1,2 @@
 # clone-tabnews
-Clone plataforma TabNews Felipe Dechamps para estudo
+Clone plataforma TabNews do Curso.dev (Felipe Deschamps) para estudo.
