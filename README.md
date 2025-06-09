@@ -1,2 +1,2 @@
 # clone-tabnews
-Clone plataforma TabNews do Curso.dev (Felipe Deschamps) para estudo.
+Implementaçao do https://tabnews.com.br para o https://curso.dev
